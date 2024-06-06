@@ -10,11 +10,30 @@ Welcome to the GradePlus App! This app is designed to provide IIITA students wit
 - **Subject Chat**: Participate in subject-specific chats to discuss and collaborate with classmates.
 - **Material Submission**: Submit study materials for verification and inclusion in the app.
 
+
 ## Screenshots
 
-![Welcome Screen](screenshots/welcome.png)
-![Features Screen](screenshots/features.png)
-![Chat Screen](screenshots/chat.png)
+### Login Screen
+![Login Screen](screenshots/login_screen.jpg)
+
+### Admin Screen
+- **Admin Dashboard**: Manage moderators and content.
+  ![Admin Dashboard](screenshots/admin.jpg)
+
+### Moderator Screen
+- **Moderator Dashboard**: Review and approve submitted materials.
+  ![Moderator Dashboard](screenshots/moderator_screen.jpg)
+
+### User Screen
+- **Home Screen**: Access and download lecture notes, past papers, and other study resources.
+  ![Home Screen](screenshots/homescreen.jpg)
+  
+- **Subject Screen**: 
+  ![Submit Material Screen](screenshots/subject_screen.jpg)
+
+  
+- **Side Navigation**: 
+  ![](screenshots/side_nav.jpg)
 
 ## Tech Stack
 
