@@ -1,16 +1,44 @@
-# gradeplus
+# GradePlus App
 
-A new Flutter project.
+Welcome to the GradePlus App! This app is designed to provide IIITA students with access to lecture PDFs, previous year papers, study materials, and a chat feature for each subject. Students can also submit their own materials for moderation and inclusion in the database.
+
+## Features
+
+- **Lecture PDFs**: Access and download lecture notes.
+- **Previous Year Papers**: Browse and download past exam papers.
+- **Study Materials**: Find links to additional study resources like YouTube videos and Google Drive files.
+- **Subject Chat**: Participate in subject-specific chats to discuss and collaborate with classmates.
+- **Material Submission**: Submit study materials for verification and inclusion in the app.
+
+## Screenshots
+
+![Welcome Screen](screenshots/welcome.png)
+![Features Screen](screenshots/features.png)
+![Chat Screen](screenshots/chat.png)
+
+## Tech Stack
+
+- **Languages**: Dart
+- **Framework**: Flutter
+- **State Management**: Provider, Riverpod, or any state management solution you're using
+- **Backend**: Firebase (for authentication, real-time database, etc.), if applicable
+- **Database**: Firestore, SQLite, or any database solution you're using
+- **Tools**: Android Studio, Visual Studio Code
+- **APIs**: Mention any APIs you're consuming
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to set up the project locally on your machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Android Studio or Visual Studio Code for development
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/himanshuhr8/GradePlus.git
+   cd GradePlus
