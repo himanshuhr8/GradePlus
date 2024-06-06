@@ -20,11 +20,10 @@ Welcome to the GradePlus App! This app is designed to provide IIITA students wit
 
 - **Languages**: Dart
 - **Framework**: Flutter
-- **State Management**: Provider, Riverpod, or any state management solution you're using
-- **Backend**: Firebase (for authentication, real-time database, etc.), if applicable
-- **Database**: Firestore, SQLite, or any database solution you're using
-- **Tools**: Android Studio, Visual Studio Code
-- **APIs**: Mention any APIs you're consuming
+- **Backend**: Firebase (for authentication, real-time database)
+- **Database**: Firestore
+- **Tools**: Android Studio
+
 
 ## Getting Started
 
